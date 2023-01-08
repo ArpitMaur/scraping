@@ -1,4 +1,4 @@
-# ----------------------scrapping blog titles from codewithharry.com/blog/ -----------------------------
+# ----------------------scrapping blog titles from codewithharry.com/blog/ first page scrapping -----------------------------
 
 import asyncio
 from bs4 import BeautifulSoup
