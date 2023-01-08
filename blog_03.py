@@ -1,4 +1,4 @@
-# ----------------------scrapping blog titles from archanaskitchen.com/")-----------------------------
+# ----------------------scrapping blog titles from archanaskitchen.com/" (food blog website)-----------------------------
 
 import asyncio
 from bs4 import BeautifulSoup
